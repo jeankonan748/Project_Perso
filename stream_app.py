@@ -162,11 +162,10 @@ try:
         
         **Option 2: Caméra en temps réel**
         1. Sélectionnez l'onglet "Utiliser la caméra"
-        2. Choisissez la résolution souhaitée
-        3. Prenez une photo de la plante à analyser
+        2 . Prenez une photo de la plante à analyser
         
         Pour de meilleurs résultats, assurez-vous que:
-        * L'image montre clairement les feuilles ou les zones symptomatiques
+        * L'image montre clairement les feuilles
         * L'éclairage est suffisant
         * L'arrière-plan n'est pas trop encombré
         """)
