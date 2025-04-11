@@ -8,7 +8,7 @@ import cv2
 import time
 import io
 
-st.title('Détection de Maladies des Plantes')
+st.title('🌿 Détection de Maladies des Plantes')
 st.write("Cette application identifie si une plante est malade ou saine à partir d'une image ou via votre caméra")
 
 @st.cache_resource
